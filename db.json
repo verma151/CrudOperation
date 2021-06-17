@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Policy_Number": "PL5003614",
+      "Policy_Amount": "5620052"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
